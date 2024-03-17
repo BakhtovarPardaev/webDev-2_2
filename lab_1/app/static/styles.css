@@ -1,0 +1,15 @@
+body {
+    font-size: 1.25rem;
+}
+
+.avatar {
+    max-width: 100%;
+}
+
+footer{
+    background-color: beige;
+}
+
+footer h3{
+    margin-left: 15%;
+}
