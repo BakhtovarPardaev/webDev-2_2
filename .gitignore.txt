@@ -1,2 +1,2 @@
-ve/
-__pycache__/
+**/ve/
+**/__pycache__/
